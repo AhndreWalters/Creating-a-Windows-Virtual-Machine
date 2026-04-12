@@ -1,15 +1,8 @@
 # Creating a Windows Virtual Machine
 
-A hands-on lab creating a Windows 11 virtual machine using Oracle VirtualBox for
-Data Security Concepts (CIT245) at T.A. Marryshow Community College.
+A hands-on exploration of creating a Windows 11 virtual machine using Oracle VirtualBox, covering downloading the official Windows 11 ISO from Microsoft, configuring virtual machine hardware settings, and booting the VM from the ISO to verify the installation media loads correctly.
 
-## Overview
-
-This lab covers the full process of setting up a Windows virtual machine from scratch:
-
-- Downloading the official Windows 11 ISO from Microsoft
-- Configuring virtual machine hardware settings in VirtualBox
-- Booting the VM from the ISO to verify the installation media loads correctly
+<img width="962" height="751" alt="image" src="https://github.com/user-attachments/assets/354ed746-5b03-467b-b512-d0112007c985" />
 
 ## Lab Activities
 
@@ -64,6 +57,4 @@ correctly.
 - Host OS: Windows 11
 - Hypervisor: Oracle VirtualBox
 
-## License
-
-<strong>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Creating-a-Windows-Virtual-Machine/blob/main/LICENSE) · Creating a Windows Virtual Machine · TAMCC Data Security Concepts Course · College Course Assignment</strong>
+<strong>[&copy; 2026 Ahndre Walters](https://github.com/AhndreWalters/Creating-a-Windows-Virtual-Machine/blob/main/LICENSE)</strong>
